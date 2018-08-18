@@ -33,6 +33,6 @@ Flashcards for my learning about wine
 
 - [x] List flash decks
 - [ ] Test CSV to flash cards
-- [ ] Write draft article
+- [x] Write draft article
 - [ ] (Build excel spreadsheet)
 - [ ] Build each flash cards
