@@ -4,10 +4,21 @@ Flashcards for my learning about wine
 ## Decks
 
 * Wine tasting
-  * Front: Number
+  * Front: Step number
   * Back: Step name
   * Front: Step name
   * Back: Description
+* Wine making
+  * Front: Step number
+  * Back: Step name
+  * Front: Step name
+  * Back: Description
+* Wine vocabulary
+  * Front: Word
+  * Back: Definition
+* European designations
+  - Front: Name
+  - Back: What it covers
 * Taste & aromas of grape varieties (cépage)
   * Front: Variety
   * Back: Taste / Aromas
