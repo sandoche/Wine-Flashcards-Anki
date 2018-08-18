@@ -28,11 +28,17 @@ Flashcards for my learning about wine
 * Food pairing
   * Front: Food
   * Back: Wine
+  
+## From Excel to Anki
+
+1. Export to CSV (One sheet per CSV)
+2. Convert to UTF-8 with notepad++
+3. Import with Anki
 
 ## To do
 
 - [x] List flash decks
 - [ ] Test CSV to flash cards
-- [x] Write draft article
+- [x] Write plan article
 - [ ] (Build excel spreadsheet)
 - [ ] Build each flash cards
