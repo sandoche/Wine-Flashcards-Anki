@@ -31,7 +31,7 @@ Flashcards for my learning about wine
 
 ## To do
 
-- [ ] List flash decks
+- [x] List flash decks
 - [ ] Test CSV to flash cards
 - [ ] Write draft article
 - [ ] (Build excel spreadsheet)
