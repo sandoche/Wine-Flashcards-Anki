@@ -41,4 +41,5 @@ Flashcards for my learning about wine
 - [x] Test CSV to flash cards
 - [x] Write plan article
 - [ ] (Build excel spreadsheet)
+- [ ] Correct grammar and structure
 - [ ] Build each flash cards
