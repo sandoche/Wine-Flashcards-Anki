@@ -35,6 +35,7 @@ Flashcards for my learning about wine
 * Ranking of 1855
 * Great bordeaux white
 * Great bourgogne
+* Italian wines sub appelations
   
 ## From Excel to Anki
 
