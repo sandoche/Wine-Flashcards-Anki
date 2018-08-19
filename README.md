@@ -50,4 +50,5 @@ Flashcards for my learning about wine
 - [x] Write plan article
 - [ ] (Build excel spreadsheet)
 - [ ] Correct grammar and structure
+- [ ] Write first draft of articles
 - [ ] Build each flash cards
