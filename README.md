@@ -29,6 +29,13 @@ Flashcards for my learning about wine
   * Front: Food
   * Back: Wine
   
+## Not included
+
+* Wine "communes" wit their taste (because they are not varieties but denomination)
+* Ranking of 1855
+* Great bordeaux white
+* Great bourgogne
+  
 ## From Excel to Anki
 
 1. Export to CSV (One sheet per CSV)
