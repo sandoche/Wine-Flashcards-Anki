@@ -53,5 +53,6 @@ Flashcards for my learning about wine
 - [x] Write plan article
 - [x] Build excel spreadsheet
 - [ ] Correct grammar and structure
+- [ ] Give °C and °F conversion
 - [ ] Write first draft of articles
 - [ ] Build each flash cards
