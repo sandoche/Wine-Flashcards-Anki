@@ -42,8 +42,16 @@ Flashcards for my learning about wine
   
 ## From Excel to Anki
 
+### Solution A
+
 1. Export to CSV (One sheet per CSV)
-2. Convert to UTF-8 with notepad++
+2. Convert to UTF-8 with notepad++ 
+3. Import with Anki
+
+### Solution B
+
+1. Copy the cells on google spreadsheet
+2. Export to CSV
 3. Import with Anki
 
 ## To do
