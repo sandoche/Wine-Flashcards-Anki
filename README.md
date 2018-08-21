@@ -1,4 +1,4 @@
-# Wine-Flashcards
+﻿# Wine-Flashcards
 Flashcards for my learning about wine
 
 ## Decks
@@ -54,6 +54,7 @@ Flashcards for my learning about wine
 - [x] Build excel spreadsheet
 - [x] Give °C and °F conversion
 - [x] Write first draft of articles
+- [ ] Replace tanin with tannin
 - [ ] Correct grammar and structure
 - [ ] Add the pictures added in the article?
 - [ ] Build each flash cards
