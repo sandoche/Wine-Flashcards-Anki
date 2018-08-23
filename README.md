@@ -63,6 +63,6 @@ Flashcards for my learning about wine
 - [x] Give °C and °F conversion
 - [x] Write first draft of articles
 - [x] Replace tanin with tannin
-- [ ] Correct grammar
-- [ ] Update the structure of Taste & aromas
+- [x] Correct grammar
+- [x] Update the structure of Taste & aromas
 - [ ] Build each flash cards
