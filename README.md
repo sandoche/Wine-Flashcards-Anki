@@ -65,4 +65,5 @@ Flashcards for my learning about wine
 - [x] Replace tanin with tannin
 - [x] Correct grammar
 - [x] Update the structure of Taste & aromas
-- [ ] Build each flash cards
+- [x] Build each flash cards
+- [ ] Reexport card about aromas
