@@ -1,0 +1,19 @@
+AOP / PDO,"Protected Designation of Origin - Geographic areas, where the wine can be produced with very specific quantities of varieties"
+IGP / PGI,Protected Geographical Indication - Like AOP / PDO with more flexibility
+Country wine,Wine produced in the country
+Table wine,Wine mixing varieties coming from different countries
+Old world wine,Wine made in europe and the mediterranean basin; They discovered the wine first;
+New world wine,"Wine made in countried than are not from Europe / Mediterranean basin such as America (North and South), Australia, South Africa"
+Wine of variety,"Wine of one variety only such as Merlot or Chardonnay, this naming is usually used in the New World"
+Wine of designation,"Wine of many varieties, its name come from a designation, for example Bordeaux or Bourgogne, it comes from it's region and the varieties are defined by national rules"
+Geographical denomination levels,Country; Region ; District; Sub-district; Town Vineyard or plot.
+Bottle's label mandatory information,Denomination; Origin; Alcohol percentage; Bottler identity (or importer); Volume; Lot number; Pregnancy avertissement; Allergen information
+PDO equivalent in France,AOC - Appellation d’origine contrôlée
+PGI equivalent in France,VDQS - Vin délimité de qualité supérieure.
+PDO equivalent in Italy,DOC -  Denominazione di Origine Controllata
+PGI equivalent in Italy,DOCG - Denominazione di Origine Controllata e Garantita
+PDO equivalent in Spain,DO - Denominaciòn de Origen
+PGI equivalent in Spain,DOCa - Denominaciòn d’Origen Calificada
+PDO equivalent in Portugal,DOC - Denominação de Origem Controlada
+PDO equivalent in Germany,QBA - Qualitätswein bestimmter Anbaugebiete
+Millésime,"A wine can have a millésime mention if 95% of the grapes come from the same year in the USA, and 85% in Europe"
