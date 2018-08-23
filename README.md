@@ -66,4 +66,4 @@ Flashcards for my learning about wine
 - [x] Correct grammar
 - [x] Update the structure of Taste & aromas
 - [x] Build each flash cards
-- [ ] Reexport card about aromas
+- [x] Reexport card about aromas
