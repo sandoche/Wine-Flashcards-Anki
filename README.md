@@ -1,5 +1,5 @@
-﻿# Wine-Flashcards
-Flashcards for my learning about wine
+# Wine-Flashcards
+Flashcards for my learning about wine, read more: https://medium.com/learning-lab/how-to-taste-wine-like-a-sir-c0296c61024c
 
 ## Decks
 
